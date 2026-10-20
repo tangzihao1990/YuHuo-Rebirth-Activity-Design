@@ -16,6 +16,6 @@ YuHuo Rebirth | Original Activity System Design
 - 玩法框架、数值风险评估与复盘
 
 ## 文件
-GameDesign_Portfolio_V2.pdf （完整作品集）
+系统策划作品集V2.pdf （完整作品集）
 
 > Note: Only game design docs here, no code.
