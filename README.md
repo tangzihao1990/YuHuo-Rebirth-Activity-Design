@@ -1,5 +1,5 @@
 # 渔获-重生 - 活动系统设计
-YuHuo Rebirth | Original Activity System Design
+渔获 Rebirth | Original Activity System Design
 > 系统策划作品集 · 活动设计模块
 
 ## 模块介绍
